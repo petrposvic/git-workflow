@@ -1,1 +1,1 @@
-Feature 2 with bug
+Feature 2
